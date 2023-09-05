@@ -1,6 +1,6 @@
 - 👋 Hi blog, welcome to my guys! I’m @Gwen and I'm single.
 - 👀 I’m interested in YOU! ayieee~
-- 🌱 I’m currently learning web systems development and how to be a developer.
+- 🌱 I’m currently learning web systems development and how to be a developer by starting of with HTML and CSS.
 - 💞️ I’m looking forward to collaborate with my crushikiks for inspiration. ems LF!
 - 📫 You can reach me at @gcp2022-7753-24136@bicol-u.edu.ph
 IG: @20yrsold, TWT: @gwenxie_
