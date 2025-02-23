@@ -1,9 +1,13 @@
 - 👋 Hi blog, welcome to my guys! I’m @Gwen and I'm single.
-- 👀 I’m interested in YOU! ayieee~
-- 🌱 I’m currently learning web systems development and how to be a developer by starting of with HTML and CSS.
-- 💞️ I’m looking forward to collaborate with my crushikiks for inspiration. ems LF!
+- 👀 I’m interested in Web development (Frontend & Backend) Information Systems Project Management, Enterprise Resource Planning (ERP) Systems
+System Analysis & Design and Database Management & Business Intelligence.
+
+- 🌱 I’m currently learning web systems development  (HTML, CSS, JavaScript, PHP) and how to be a developer Backend Development (MySQL, XAMPP, PHP)
+Project & System Documentation
+Version Control & Deployment (Git, GitHub)
+
+- 💞️ I’m looking forward to collaborate on web and system development projects, open-source contributions.
 - 📫 You can reach me at @gcp2022-7753-24136@bicol-u.edu.ph
-IG: @20yrsold, TWT: @gwenxie_
 <!---
 gwypods/gwypods is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
