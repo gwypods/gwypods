@@ -1,4 +1,5 @@
-- 👋 Hi blog, welcome to my guys! I’m @Gwen and I'm single.
+- 👋 Hi, welcome to my GitHub!
+I’m Guen, a 3rd-year BS Information Systems (BSIS) student at Bicol University Polangui, passionate about information systems and business technology.
 - 👀 I’m interested in Web development (Frontend & Backend) Information Systems Project Management, Enterprise Resource Planning (ERP) Systems
 System Analysis & Design and Database Management & Business Intelligence.
 
