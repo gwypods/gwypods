@@ -3,9 +3,8 @@
 - 👀 I’m interested in Web development (Frontend & Backend) Information Systems Project Management, Enterprise Resource Planning (ERP) Systems
 System Analysis & Design and Database Management & Business Intelligence.
 
-- 🌱 I’m currently learning web systems development  (HTML, CSS, JavaScript, PHP) and how to be a developer Backend Development (MySQL, XAMPP, PHP)
-Project & System Documentation
-Version Control & Deployment (Git, GitHub)
+- 🌱 I’m currently learning web systems development  (HTML, CSS, JavaScript, PHP) to be furnish being a developer Backend Development (MySQL, XAMPP, PHP)
+while finishing our Capstone Project System's Deployment.
 
 - 💞️ I’m looking forward to collaborate on web and system development projects, open-source contributions.
 - 📫 You can reach me at @gcp2022-7753-24136@bicol-u.edu.ph
