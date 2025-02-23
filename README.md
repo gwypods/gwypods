@@ -1,7 +1,7 @@
 - 👋 Hi, welcome to my GitHub!
-- I’m Guen, a 3rd-year BS Information Systems (BSIS) student at Bicol University Polangui, passionate about information systems and business technology.
-- 👀 I’m interested in Web development (Frontend & Backend) Information Systems Project Management, Enterprise Resource Planning (ERP) Systems
-System Analysis & Design and Database Management & Business Intelligence.
+- I’m Guen, a 3rd-year BS Information Systems (BSIS) student at Bicol University Polangui, learning about information systems and business technology.
+- 👀 I’m interested in Web development (Frontend & Backend) Information Systems Project Management, Enterprise Resource Planning (ERP) Systems,
+System Analysis & Design and Database Management.
 
 - 🌱 I’m currently learning web systems development  (HTML, CSS, JavaScript, PHP) to be furnish being a developer Backend Development (MySQL, XAMPP, PHP)
 while finishing our Capstone Project System's Deployment.
